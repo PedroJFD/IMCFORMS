@@ -1,0 +1,17 @@
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.csproj.AssemblyReference.cache
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC_FORMS.Form1.resources
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.csproj.GenerateResource.cache
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.AssemblyInfoInputs.cache
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.AssemblyInfo.cs
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.csproj.CoreCompileInputs.cache
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\bin\Debug\net6.0-windows\IMC FORMS.exe
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\bin\Debug\net6.0-windows\IMC FORMS.deps.json
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\bin\Debug\net6.0-windows\IMC FORMS.runtimeconfig.json
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\bin\Debug\net6.0-windows\IMC FORMS.dll
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\bin\Debug\net6.0-windows\IMC FORMS.pdb
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.dll
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\refint\IMC FORMS.dll
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.pdb
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\IMC FORMS.genruntimeconfig.cache
+C:\Users\2022102020041\source\repos\IMC FORMS\IMC FORMS\obj\Debug\net6.0-windows\ref\IMC FORMS.dll
